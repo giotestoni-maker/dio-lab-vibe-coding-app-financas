@@ -104,7 +104,8 @@ Interações com o Lovable:
 Resultado final no lovable:
 https://pocket-guide-chat.lovable.app/
 
-<img width="1818" height="903" alt="image" src="https://github.com/user-attachments/assets/af8a2bc8-b7a8-4707-9d65-ce72480ce78d" />
+<img width="1789" height="854" alt="image" src="https://github.com/user-attachments/assets/42197716-d1d2-4973-a20a-0b2d1216dbb1" />
+
 
 Resumo do que o App faz:
 O aplicativo é um assistente financeiro inteligente que permite ao usuário organizar seus ganhos, controlar seus gastos e acompanhar seu saldo de forma simples e acessível.
@@ -124,7 +125,7 @@ Reflexão sobre o projeto:
   A estrutura do aplicativo está sólida. As funcionalidades principais, como o registro de gastos e ganhos, o desempenho geral, e o login, funcionaram com rapidez e estabilidade. A experiência de uso foi fluida e responsiva, permitindo que as ações básicas fossem realizadas com facilidade.
   
   - O que não funcionou como o esperado?
-    A funcionalidade de metas financeiras ainda não está totalmente implementada. O agente oferece sugestões e dicas quando solicitado, mas não há uma área dedicada para metas fixadas com acompanhamento visual e progressivo. Isso limita o controle direto sobre objetivos financeiros definidos pelo usuário.
+    A funcionalidade de metas financeiras ainda não está totalmente implementada.
      
   - O que aprendeu sobre conversar com IAs?
    É essencial ser o mais específico possível ao formular os comandos e expectativas. Detalhar claramente o que se espera da resposta ou funcionalidade ajuda a evitar interpretações ambíguas. Além disso, revisar os prompts antes de aplicar garante que a IA compreenda corretamente a intenção e execute com precisão.
