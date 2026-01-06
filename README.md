@@ -23,6 +23,7 @@ Criar um app de finanças pessoais com assistente conversacional que funcione se
 7. Interface simples, sem dados pré-carregados (começa do zero).
 8. Login básico com persistência local (sem dependência de autenticação externa).
 9. Respostas garantidas: o chat nunca trava, mesmo sem dados.
+10. Aba de planner semanal com as metas atualizadas no dia de preferência do usuário, ele deve conseguir marcar as metas como feitas ou não.
 
 4. Intenções e Exemplos
 
@@ -102,10 +103,9 @@ Interações com o Lovable:
 > Crie um app de finanças com o seguinte PRD:
 
 Resultado final no lovable:
-https://pocket-guide-chat.lovable.app/
+[https://pocket-guide-chat.lovable.app/](https://rendacontrol.lovable.app)
 
-<img width="1789" height="854" alt="image" src="https://github.com/user-attachments/assets/42197716-d1d2-4973-a20a-0b2d1216dbb1" />
-
+<img width="1285" height="829" alt="image" src="https://github.com/user-attachments/assets/9ca39e8f-7230-4360-9d00-1a027e2476d2" />
 
 Resumo do que o App faz:
 O aplicativo é um assistente financeiro inteligente que permite ao usuário organizar seus ganhos, controlar seus gastos e acompanhar seu saldo de forma simples e acessível.
@@ -123,9 +123,6 @@ O login é funcional e seguro, com persistência de sessão, garantindo que cada
 Reflexão sobre o projeto:
 - O que funcionou bem?
   A estrutura do aplicativo está sólida. As funcionalidades principais, como o registro de gastos e ganhos, o desempenho geral, e o login, funcionaram com rapidez e estabilidade. A experiência de uso foi fluida e responsiva, permitindo que as ações básicas fossem realizadas com facilidade.
-  
-  - O que não funcionou como o esperado?
-    A funcionalidade de metas financeiras ainda não está totalmente implementada.
      
   - O que aprendeu sobre conversar com IAs?
    É essencial ser o mais específico possível ao formular os comandos e expectativas. Detalhar claramente o que se espera da resposta ou funcionalidade ajuda a evitar interpretações ambíguas. Além disso, revisar os prompts antes de aplicar garante que a IA compreenda corretamente a intenção e execute com precisão.
